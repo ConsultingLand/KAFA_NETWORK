@@ -179,7 +179,7 @@ const PrivateSale = () => {
                 color: "#00AEEF",
               }}
             >
-              PRESALE
+              PRESALE.
             </Typography>
             <Typography color="#ffffff" variant="h6" mb={1}>
               You can buy our KAFA tokens using MATIC.
