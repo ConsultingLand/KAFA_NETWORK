@@ -33,7 +33,7 @@ function App() {
                 >
                   <Navbar mode={mode} themeToggler={themeToggler} />
                   <KafaNetwork mode={mode} themeToggler={themeToggler} />
-                  <PresaleTabs mode={mode} themeToggler={themeToggler} />
+                  {/* <PresaleTabs mode={mode} themeToggler={themeToggler} /> */}
                   <RoadMap mode={mode} themeToggler={themeToggler} />
                   <Footer mode={mode} themeToggler={themeToggler} />
                 </Box>
